@@ -45,7 +45,7 @@ function Panel({updateAt, onChange, data, country, getCovidData }) {
     const renderCopyButton = (
         <div>
             <Button variant="contained" color="primary" onClick={copyInfo}>
-                Compartilhar
+                Copiar
             </Button>
         </div>
     )

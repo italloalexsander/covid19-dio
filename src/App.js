@@ -9,7 +9,7 @@ import Main from './containers/Main'
 
 export default function App() {
   return (
-    <Container maxWidth="sm">
+    <Container maxWidth="lg">
       <GlobalStyle />
       <Main />
     </Container>
